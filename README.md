@@ -190,14 +190,3 @@ Covers all endpoints across: Auth, Employees, Salary Structures, Salary Assignme
 
 ---
 
-## Bonus Features Implemented
-
-- ✅ Retry mechanism for failed emails (with error classification and a 3-attempt cap)
-
-## Bonus Features Not Implemented (out of scope for timeline)
-
-- Scheduled automatic payroll processing at month-end
-- Download all payslips as ZIP
-- Excel payroll export
-
----
