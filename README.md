@@ -189,15 +189,3 @@ Covers all endpoints across: Auth, Employees, Salary Structures, Salary Assignme
 - **New employee onboarding**: creating an employee cascades into creating a linked login (`User` record, role `EMPLOYEE`), with an auto-generated username and temporary password returned once in the creation response — shown to HR in a one-time confirmation modal, never persisted or re-displayed.
 
 ---
-
-## Bonus Features Implemented
-
-- ✅ Retry mechanism for failed emails (with error classification and a 3-attempt cap)
-
-## Bonus Features Not Implemented (out of scope for timeline)
-
-- Scheduled automatic payroll processing at month-end
-- Download all payslips as ZIP
-- Excel payroll export
-
----
